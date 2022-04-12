@@ -1,0 +1,5 @@
+/node_modules
+/dist
+BotLicenseFile.xml
+bot1.properties
+bot-debug.log

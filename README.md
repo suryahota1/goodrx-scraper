@@ -1,1 +1,0 @@
-# goodrx-scraper
